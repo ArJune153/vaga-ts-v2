@@ -147,35 +147,36 @@ export default {
       onlineCount6: "13,254",
       onlineCountAll: "149,631",
       slides: [
+        { src: 'vaga-p1.jpg', alt: 'Image 4' },
         { src: 'photo_6176799786905226200_y.jpg', alt: 'Image 3' },
         { src: '420375319_1624702368068667_6652174554953795688_n.jpg', alt: 'Image 1' },
         { src: '421234511_7963770843638242_1140802107834476467_n.jpg', alt: 'Image 2' },      
       ],
       topUsersData : [
-      { userName: "rosaa01xx", amount: "150,000", timestamp: "31 ส.ค. 2568" },
-      { userName: "rosab89xx", amount: "130,500", timestamp: "31 ส.ค. 2568" },
-      { userName: "rosae11xx", amount: "95,200", timestamp: "31 ส.ค. 2568" },
-      { userName: "rosad04xx", amount: "83,000", timestamp: "31 ส.ค. 2568" },
-      { userName: "rosae87xx", amount: "82,000", timestamp: "31 ส.ค. 2568" },
-      { userName: "rosae35xx", amount: "78,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "vagaa01xx", amount: "150,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "vagab89xx", amount: "130,500", timestamp: "31 ส.ค. 2568" },
+      { userName: "vagae11xx", amount: "95,200", timestamp: "31 ส.ค. 2568" },
+      { userName: "vagad04xx", amount: "83,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "vagae87xx", amount: "82,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "vagae35xx", amount: "78,000", timestamp: "31 ส.ค. 2568" },
     ],
     reviews : [
-      { user: "rosaj23xx", text: "เว็บนี้ใช้งานง่าย ถอนเงินไวมาก", img: "photo-2568-06-02-13-24-49.jpg" },
-      { user: "rosas16xx", text: "แตกหนักจนแฟนงง ว่าไปเอาเงินมาจากไหน", img: "photo-2568-06-21-13-38-31.jpg" },
-      { user: "rosae56xx", text: "ระบบดี ไม่มีสะดุดเลย", img: "photo-2568-06-02-13-11-47.jpg" },
-      { user: "rosax88xx", text: "โปรโมชั่นคุ้มสุด ๆ เลยครับ", img: "503804955-122126012606831043-7044484449309087338-n.jpg" },
-      { user: "rosao16xx", text: "เล่นง่าย ได้เงินจริง", img: "490506081-122124348278773654-1591748651281217225-n.jpg" },
-      { user: "rosad41xx", text: "แตกจริง! ไม่ต้องลุ้นเลย เงินเข้าไวสุด ๆ 💸", img: "533961598_1465905681078900_8473607776528464666_n.jpg" },
-      { user: "rosad41xx", text: "จากหลักร้อยเป็นหลักหมื่นในคืนเดียว ว้าว!", img: "464195162_2477566235772141_6809220135929060331_n.jpg" },
-      { user: "rosab71xx", text: "รองรับ TrueWallet ด้วย สะดวกมาก", img: "504143319_2219977065123389_83092695142278008_n.jpg" },
-      { user: "rosat94xx", text: "แนะนำเพื่อน ได้โบนัสด้วย", img: "492242625_668943662417215_4482917277835435921_n.jpg" },
-      { user: "rosal68xx", text: "ดีตรงที่มีภาษาไทยครบถ้วน", img: "518366934_736143816025493_1299983234092703859_n.jpg" },
-      { user: "rosat28xx", text: "ฝากปุ๊บเงินเข้าปั๊บ", img: "533084719_1116500603710911_5818853113959217185_n.jpg" },
-      { user: "rosao71xx", text: "แทบจะถอนทุกวัน ดีจริงๆเว็บนี้!", img: "277169807-3163265690584017-8353788208641286173-n.jpg" },
-      { user: "rosaj88xx", text: "ชอบมีไลฟ์สดบอลให้ดูฟรี", img: "432694438-933306371801755-6605376483802637949-n.jpg" },
-      { user: "rosaq38xx", text: "ทีมซัพพอร์ตดูแลดีมาก", img: "444482004_7798764536813604_3664008989486408448_n.md.jpg" },
-      { user: "rosaz65xx", text: "อัตราต่อรองแฟร์สุด ๆ", img: "499992981-543532548818863-8863283426458467040-n.jpg" },
-      { user: "rosaf86xx", text: "ถอนวันละพันทุกวัน แทบไม่ต้องทำงาน", img: "503202164-2075152429640793-785701917046162087-n.jpg" },
+      { user: "vagaj23xx", text: "เว็บนี้ใช้งานง่าย ถอนเงินไวมาก", img: "photo-2568-06-02-13-24-49.jpg" },
+      { user: "vagas16xx", text: "แตกหนักจนแฟนงง ว่าไปเอาเงินมาจากไหน", img: "photo-2568-06-21-13-38-31.jpg" },
+      { user: "vagae56xx", text: "ระบบดี ไม่มีสะดุดเลย", img: "photo-2568-06-02-13-11-47.jpg" },
+      { user: "vagax88xx", text: "โปรโมชั่นคุ้มสุด ๆ เลยครับ", img: "503804955-122126012606831043-7044484449309087338-n.jpg" },
+      { user: "vagao16xx", text: "เล่นง่าย ได้เงินจริง", img: "490506081-122124348278773654-1591748651281217225-n.jpg" },
+      { user: "vagad41xx", text: "แตกจริง! ไม่ต้องลุ้นเลย เงินเข้าไวสุด ๆ 💸", img: "533961598_1465905681078900_8473607776528464666_n.jpg" },
+      { user: "vagad41xx", text: "จากหลักร้อยเป็นหลักหมื่นในคืนเดียว ว้าว!", img: "464195162_2477566235772141_6809220135929060331_n.jpg" },
+      { user: "vagab71xx", text: "รองรับ TrueWallet ด้วย สะดวกมาก", img: "504143319_2219977065123389_83092695142278008_n.jpg" },
+      { user: "vagat94xx", text: "แนะนำเพื่อน ได้โบนัสด้วย", img: "492242625_668943662417215_4482917277835435921_n.jpg" },
+      { user: "vagal68xx", text: "ดีตรงที่มีภาษาไทยครบถ้วน", img: "518366934_736143816025493_1299983234092703859_n.jpg" },
+      { user: "vagat28xx", text: "ฝากปุ๊บเงินเข้าปั๊บ", img: "533084719_1116500603710911_5818853113959217185_n.jpg" },
+      { user: "vagao71xx", text: "แทบจะถอนทุกวัน ดีจริงๆเว็บนี้!", img: "277169807-3163265690584017-8353788208641286173-n.jpg" },
+      { user: "vagaj88xx", text: "ชอบมีไลฟ์สดบอลให้ดูฟรี", img: "432694438-933306371801755-6605376483802637949-n.jpg" },
+      { user: "vagaq38xx", text: "ทีมซัพพอร์ตดูแลดีมาก", img: "444482004_7798764536813604_3664008989486408448_n.md.jpg" },
+      { user: "vagaz65xx", text: "อัตราต่อรองแฟร์สุด ๆ", img: "499992981-543532548818863-8863283426458467040-n.jpg" },
+      { user: "vagaf86xx", text: "ถอนวันละพันทุกวัน แทบไม่ต้องทำงาน", img: "503202164-2075152429640793-785701917046162087-n.jpg" },
     ],
     rwindex:0
     };
@@ -332,7 +333,7 @@ export default {
       const randomBankIndex = Math.floor(Math.random() * bankLogos.length);
       const randomDigits = Math.floor(Math.random() * 100).toString().padStart(2, '0');
       const randomChar = String.fromCharCode(Math.floor(Math.random() * 26) + 97);
-      const user = `rosa${randomChar}${randomDigits}xx`;
+      const user = `vaga${randomChar}${randomDigits}xx`;
 
       const now = new Date();
 
